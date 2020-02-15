@@ -1,0 +1,124 @@
+{"frames": {
+
+"cards_back_swap_burning_00000.png":
+{
+	"frame": {"x":1745,"y":1,"w":277,"h":334},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":122,"w":277,"h":334},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00001.png":
+{
+	"frame": {"x":1724,"y":389,"w":311,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":90,"w":311,"h":366},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00002.png":
+{
+	"frame": {"x":1,"y":321,"w":401,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":76,"w":401,"h":380},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00003.png":
+{
+	"frame": {"x":1329,"y":1,"w":414,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":70,"w":414,"h":386},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00004.png":
+{
+	"frame": {"x":878,"y":320,"w":420,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":78,"w":420,"h":378},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00005.png":
+{
+	"frame": {"x":404,"y":639,"w":421,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":100,"w":421,"h":356},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00006.png":
+{
+	"frame": {"x":1300,"y":389,"w":422,"h":335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":121,"w":422,"h":335},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00007.png":
+{
+	"frame": {"x":827,"y":700,"w":424,"h":315},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":142,"w":424,"h":315},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00008.png":
+{
+	"frame": {"x":447,"y":320,"w":429,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":163,"w":429,"h":317},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00009.png":
+{
+	"frame": {"x":893,"y":1,"w":434,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":185,"w":434,"h":317},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00010.png":
+{
+	"frame": {"x":1,"y":1,"w":444,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":206,"w":444,"h":318},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00011.png":
+{
+	"frame": {"x":447,"y":1,"w":444,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":229,"w":444,"h":317},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00012.png":
+{
+	"frame": {"x":1253,"y":726,"w":426,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":267,"w":426,"h":285},
+	"sourceSize": {"w":480,"h":580}
+},
+"cards_back_swap_burning_00013.png":
+{
+	"frame": {"x":1,"y":703,"w":326,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":332,"w":326,"h":191},
+	"sourceSize": {"w":480,"h":580}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cards.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":1016},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:20c55e4b69ec2b9276b299da97e17abc:7b4eb044ed7627d218724862158a94af:8056528aade6b91f4a89f8c9da7f2d4c$"
+}
+}

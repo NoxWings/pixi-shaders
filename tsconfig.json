@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "downlevelIteration": true,
+        "importHelpers": true,
+        "lib": [ "dom", "es2018", "esnext.array" ],
+        "jsx": "react",
+        "jsxFactory": "h",
+        "module": "es2015",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "outDir": "./dist/",
+        "removeComments": true,
+        "stripInternal": true,
+        "target": "es5"
+    },
+    "include": [
+        "src/@types/*.d.ts",
+        "src/index.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
