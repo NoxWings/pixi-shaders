@@ -1,10 +1,8 @@
 #version 100
 precision mediump float;
 
-uniform float uTime;
 uniform float uAnimation;
 uniform float uBorderSmoothing;
-uniform vec2 uResolution;
 
 uniform sampler2D uTexture;
 

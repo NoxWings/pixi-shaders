@@ -1,7 +1,6 @@
 #version 100
 precision mediump float;
 
-uniform float uTime;
 uniform float uAnimation;
 uniform vec2 uResolution;
 

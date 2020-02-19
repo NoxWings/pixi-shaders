@@ -1,5 +1,5 @@
 import { Application, Geometry, Shader, Mesh } from "pixi.js";
-import vertexSource from "../common/vertex.glsl";
+import vertexSource from "./vertex.glsl";
 import fragmentSource from "./fragment.glsl";
 
 const setup = (canvas: HTMLCanvasElement) => {
