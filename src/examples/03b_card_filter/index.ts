@@ -19,10 +19,10 @@ const setup = (canvas: HTMLCanvasElement) => {
     const uniforms = {
         uTime: 0,
         uAnimation: 0.5,
-        uBorderWidth: 0.3,
-        uBorderSmoothing: 0.50,
-        uBorderColor: [1.0, 0.3, 0.08],
-        uBorderColorMultiplier: 3.5,
+        uBorderWidth: 0.4,
+        uBorderSmoothing: 0.65,
+        uBorderColor: [1.0, 0.33, 0.1],
+        uBorderColorMultiplier: 5.0,
         uResolution: [canvas.clientWidth, canvas.clientHeight],
         uTexture: Texture.from("assets/textures/perlin_noise.png")
     };
