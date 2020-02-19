@@ -11,8 +11,8 @@ export default [
         setup: triangle
     },
     {
-        name: "Exercise 1: Playing with colors",
-        path: "/colors",
+        name: "Exercise 1: Playing with colors and shapes",
+        path: "/colors-and-shapes",
         setup: colors
     },
     {
